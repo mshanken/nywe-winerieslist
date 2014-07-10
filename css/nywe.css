@@ -1,0 +1,152 @@
+body{
+  background-image: url('https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/NYWE-HomePage-Background.jpg');
+}
+p{
+  font-family: Arial;
+  font-size: 17px;
+}
+#wrapper{
+  background-color: #fff;
+  padding: 20px;
+  max-width: 890px;
+  margin: 30px auto 30px auto;
+  box-shadow: 0 0 7px 3px #4b4b4b;
+}
+#nav{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#nav a:hover {
+color: #ffffff;
+background-color: #9aae81;
+}
+#nav a.btn-default {
+  color: #ffffff;
+  padding: 15px 0;
+  font-weight: bold;
+  font-size: 16px;
+}
+#nav .btn-default {
+  background-color: #8d7ca3;
+}
+#head_text{
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Georgia;
+  color: #400d60;
+}
+.hometext{
+  font-family: Arial;
+  font-size: 17px;
+  margin-top: 20px;
+}
+#regi{
+  color: #400d60;
+  font-weight: bold;
+}
+.home_list{
+  margin-bottom: 10px;
+}
+.order{
+  font-size: 20px;
+}
+.large_text{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+.program_text{
+  font-family: Arial;
+  font-size: 17px;
+  margin-top: 20px;
+}
+.events{
+  font-family: Arial;
+  font-size: 17px;
+  color: #340254;
+  text-transform: uppercase;
+}
+.foot_project{
+  font-size: 13px;
+  margin-top: 5px;
+  margin-left: 8px;
+  font-style: italic;
+}
+.dates{
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+}
+#saturday{
+  margin-top: 38px;
+}
+#october{
+  margin-top: 25px;
+}
+.e_ticket{
+  margin-left: 55px;
+}
+.text{
+  margin-top: 25px;
+}
+.wineries{
+  margin-top: 5px;
+  font-weight: bold;
+}
+.agenda{
+  margin-top: 30px;
+  margin-left: 7px;
+}
+.date{
+  font-size: 14px;
+  font-weight: bold;
+  color: #b98223;
+  margin: 0px 7px;
+}
+.time{
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin: 0px 7px;
+}
+.times{
+  font-weight: lighter;
+  margin-left: 21px;
+  margin-top: 20px;
+}
+.hotel{
+  font-size: 33px;
+  font-family: Georgia;
+  font-weight: bold;
+  margin-left: 5px;
+  color: #400d60;
+}
+.attendees{
+  font-family: Arial;
+  font-size: 18px;
+  margin-left: 6px;
+  font-weight: bold;
+}
+#contact{
+  color: #b98223;
+  font-size: 30px;
+  font-family: Arial;
+}
+#marriott_row{
+  margin-top: 20px;
+}
+#info{
+  font-size: 17px;
+  padding-bottom: 40px;
+}
+.critics{
+  color: #400d60;
+  font-size: 26px;
+  font-family: arial;
+  font-weight: bold;
+  margin-left: 100px;
+}
+.wl{
+  font-family: Arial;
+  font-size: 17px;
+  list-style-type: none;
+}
